@@ -5,4 +5,5 @@ We learnt so far:
     Conor Hoekstra  good explanation: [ "Concepts vs Typeclasses vs Traits vs Protocols"](https://www.youtube.com/watch?v=E-2y1qHQvTg&t=803s&ab_channel=CodingTech)
     
 - pattern matching, guards, guards with pattern matching, where and let clauses.
+    the main difference between `lets` and `wheres` is `let` are expressions themsevles. you can slut them anywhere and define functions inline.
 

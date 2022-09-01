@@ -10,3 +10,9 @@ factorial n = n * factorial (n - 1)
 islong :: [a] -> String  
 islong [] = "Empty"
 islong l =  if length l > 4 then "long" else "not so long"
+
+-- Prelude> [let square x = x * x in (square 4, square 3, square 2)]
+-- [(25,9,4)]
+
+-- Prelude>  let square x = x * x in [ square 4, square 3, square 2]
+-- [25,9,4]
