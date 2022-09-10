@@ -7,3 +7,4 @@ We learnt so far:
 - [ pattern matching, guards, guards with pattern matching, where and let clauses, case expressions. ]( http://learnyouahaskell.com/syntax-in-functions )
     the main difference between `lets` and `wheres` is `let` are expressions themsevles. you can slut them anywhere and define functions inline.
 
+- functions syntax, recursion
